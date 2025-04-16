@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+ucprotect/__init__.py
+ucprotect/ucprotect.py
+ucprotect3.egg-info/PKG-INFO
+ucprotect3.egg-info/SOURCES.txt
+ucprotect3.egg-info/dependency_links.txt
+ucprotect3.egg-info/not-zip-safe
+ucprotect3.egg-info/requires.txt
+ucprotect3.egg-info/top_level.txt
