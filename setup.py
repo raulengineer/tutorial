@@ -5,7 +5,7 @@ if __name__ == "__main__":
     setup(name ="ucprotect3",
           description="Esta es una aplicacion para descargar level 3 de ucprotect",
           license="MIT",
-          url="https://github.com/raulengineer/paquete.git",
+          url="https://github.com/raulengineer/tutorial.git",
           version="0.0.1",
           author="Raul Villano Obregon",
           author_email="raulengineer@gmail.com",
